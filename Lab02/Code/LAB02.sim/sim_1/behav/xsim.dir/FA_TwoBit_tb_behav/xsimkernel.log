@@ -1,0 +1,7 @@
+Running: xsim.dir/FA_TwoBit_tb_behav/xsimk.exe -simmode gui -wdb FA_TwoBit_tb_behav.wdb -simrunnum 0 -socket 63032
+Design successfully loaded
+Design Loading Memory Usage: 19252 KB (Peak: 19252 KB)
+Design Loading CPU Usage: 124 ms
+Simulation completed
+Simulation Memory Usage: 19664 KB (Peak: 19664 KB)
+Simulation CPU Usage: 124 ms

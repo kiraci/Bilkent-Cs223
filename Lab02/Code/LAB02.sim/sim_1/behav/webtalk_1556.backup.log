@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Sat Oct 17 20:51:59 2020
+# Process ID: 1536
+# Log file: C:/Users/Administrator/LAB02/LAB02.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Administrator/LAB02/LAB02.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Administrator/LAB02/LAB02.sim/sim_1/behav/xsim.dir/FA_TwoBit_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 3711597151 -regid "210964681_0_0_143" -xml C:/Users/Administrator/LAB02/LAB02.sim/sim_1/behav/xsim.dir/FA_TwoBit_tb_behav/w..."
+    (file "C:/Users/Administrator/LAB02/LAB02.sim/sim_1/behav/xsim.dir/FA_TwoBit_tb_behav/webtalk/xsim_webtalk.tcl" line 42)
+INFO: [Common 17-206] Exiting Webtalk at Sat Oct 17 20:52:00 2020...
