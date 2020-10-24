@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Fri Oct 23 15:43:57 2020
+# Process ID: 5084
+# Log file: C:/Users/Administrator/Desktop/LAB03-09/LAB03-09.runs/impl_1/SpecialFunction.vdi
+# Journal file: C:/Users/Administrator/Desktop/LAB03-09/LAB03-09.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source SpecialFunction.tcl -notrace

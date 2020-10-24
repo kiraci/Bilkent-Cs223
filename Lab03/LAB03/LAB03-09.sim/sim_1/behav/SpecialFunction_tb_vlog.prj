@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  "../../../LAB03-09.srcs/sources_1/new/BehavioralFourToOneMux.sv"
+sv xil_defaultlib  "../../../LAB03-09.srcs/sources_1/new/MuxEightToOne.sv"
+sv xil_defaultlib  "../../../LAB03-09.srcs/sources_1/new/SpecialFunction.sv"
+sv xil_defaultlib  "../../../LAB03-09.srcs/sim_1/new/SpecialFunction_tb.sv"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
