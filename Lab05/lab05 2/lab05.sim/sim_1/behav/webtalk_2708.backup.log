@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Webtalk v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Fri Dec 11 17:22:14 2020
+# Process ID: 2616
+# Log file: C:/Users/Administrator/Desktop/lab05/lab05.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Administrator/Desktop/lab05/lab05.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Administrator/Desktop/lab05/lab05.sim/sim_1/behav/xsim.dir/Memory_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:21 . Memory (MB): peak = 63.180 ; gain = 0.023
+
+    while executing
+"webtalk_transmit -clientid 1340795493 -regid "210964681_0_0_143" -xml C:/Users/Administrator/Desktop/lab05/lab05.sim/sim_1/behav/xsim.dir/Memory_tb_be..."
+    (file "C:/Users/Administrator/Desktop/lab05/lab05.sim/sim_1/behav/xsim.dir/Memory_tb_behav/webtalk/xsim_webtalk.tcl" line 42)
+INFO: [Common 17-206] Exiting Webtalk at Fri Dec 11 17:22:35 2020...
